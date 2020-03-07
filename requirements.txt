@@ -1,0 +1,7 @@
+bs4
+urllib
+requests
+datetime
+lxml
+time
+sqlite3
