@@ -1,11 +1,3 @@
-from bs4 import BeautifulSoup
-from urllib.request import urlopen
-import requests
-from datetime import datetime, timedelta
-from lxml import html
-import time
-import sqlite3
-
 cookies = { 'afisha.sid':'s%3AqVKZb4OPJbvtQoIV9ccvZ0UnRO9i8ZTg.Es7iWs0rP2cIgTA3HtNVH8Lkwgau80w%2BDBK6QsaCZ7U',
                '_csrf': 'OeFTDT_63OhBsFubnyT68S3H'
          }
